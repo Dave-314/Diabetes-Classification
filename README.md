@@ -20,8 +20,6 @@ As data scientists, we've embarked on an exhilarating journey that unfolds in se
 
 5. **Model Evaluation**: Through rigorous evaluation using sacred metrics such as accuracy, precision, recall, AUC-ROC and F1-score, we gauge the prowess of our models. These metrics serve as a compass, guiding us to the most formidable model, the one that will lead us to victory.
 
-6. **Deployment**: With the chosen champion model at our side, we are ready to face the challenges of the real world. We deploy our champion, empowering them to predict the presence of diabetes in new individuals based on their health exam and family history, leaving an indelible mark on their lives.
-
 ## :bulb: **Let's Connect!**
 If you have any questions, suggestions, or potential collaborations related to this project, I would be delighted to hear from you. Please feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/david-shields/).
 
