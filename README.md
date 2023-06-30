@@ -2,7 +2,7 @@
 
 Welcome to the **Diabetes Prediction Project**! 🎉 This exciting project aims to analyze diabetes data collected from health exams and family history. By harnessing the power of data management, captivating data visualizations, and cutting-edge machine learning techniques, our mission is to predict the presence of diabetes in individuals.
 
-If you are new to GitHub click [here](https://github.com/Dave-314/Diabetes-Classification) to view the project.
+If you are new to GitHub click [here]([https://github.com/Dave-314/Diabetes-Classification](https://github.com/Dave-314/Diabetes-Classification/blob/main/diabetes%20classification%20notebook%202nd%20draft.ipynb)) to view the project.
 
 ## 📊 Dataset
 
