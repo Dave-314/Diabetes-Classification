@@ -2,6 +2,8 @@
 
 Welcome to the **Diabetes Prediction Project**! 🎉 This exciting project aims to analyze diabetes data collected from health exams and family history. By harnessing the power of data management, captivating data visualizations, and cutting-edge machine learning techniques, our mission is to predict the presence of diabetes in individuals.
 
+If you are new to GitHub click [here](https://github.com/Dave-314/Diabetes-Classification) to view the project.
+
 ## 📊 Dataset
 
 The dataset used in this project is a treasure trove of comprehensive information on individuals' health exam results, encompassing vital factors related to diabetes such as blood glucose levels, body mass index (BMI), blood pressure, and family history of illness. This robust dataset serves as the foundation for our thrilling analysis and prediction models.
